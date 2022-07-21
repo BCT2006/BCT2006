@@ -7,7 +7,7 @@ You're mostly going to see either **nothing**, or **fnf**
 cool fnf mods i contributed to:
 + [Vs. LongestSoloEver](https://gamebanana.com/mods/358645)
 + [Vs Wratcher](https://gamebanana.com/mods/338423)
-+ [Vs Springtrap(nightmare)](https://gamebanana.com/mods/313756)
++ [Vs Springtrap (Nightmare)](https://gamebanana.com/mods/313756)
 + [Tricky Phase 0 (Calliope)](https://gamebanana.com/mods/296065)
 
 <!---
