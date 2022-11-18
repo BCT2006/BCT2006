@@ -10,11 +10,8 @@ cool fnf mods i contributed to:
 + [Vs Springtrap (Nightmare)](https://gamebanana.com/mods/313756)
 + [Tricky Phase 0 (Calliope)](https://gamebanana.com/mods/296065)
 
-```haxe
-haha = "haha i have no idea what im doing";
-trace(haha)
-```
 
+ooga booga
 <!---
 BCT2006/BCT2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
